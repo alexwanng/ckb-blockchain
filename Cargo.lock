@@ -662,7 +662,6 @@ version = "0.33.0-pre"
 dependencies = [
  "bs58",
  "ckb-app-config",
- "ckb-build-info",
  "ckb-hash",
  "ckb-logger",
  "ckb-stop-handler",
